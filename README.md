@@ -6,3 +6,4 @@ The files corresponding to each of the two data sets investigated contain a Jupy
 
 ### DATA FOR THE SMMnet network
 The .csv files to use the SMMnet network code are too big to be uploaded on GitHub and can hence be downloaded from: https://www.kaggle.com/datasets/leomauro/smmnet/
+The csv files need to be placed in a folder 'data' that needs to be located in the same repository as the SMMnet notebook.
